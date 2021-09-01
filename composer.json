@@ -9,5 +9,8 @@
             "email": "lova.rabarison@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+	"config": {
+    	"vendor-dir": "./"
+    }
 }
