@@ -1,0 +1,13 @@
+{
+    "name": "lova/hello",
+    "description": "Hello Packagist",
+    "type": "librairy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lova RABARISON",
+            "email": "lova.rabarison@gmail.com"
+        }
+    ],
+    "require": {}
+}
